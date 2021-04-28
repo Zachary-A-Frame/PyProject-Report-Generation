@@ -1,1 +1,1 @@
-### This is the final project for Google's first class in its 6 part certification source on Python Automation.
+### This application takes in any .txt file, with two included in the repo for your use, and returns a word cloud. To run the application, open the WordCloud notebook and run each kernal sequentially. On the second kernal, a "browse" button will appear after it has been run. You must click the button and select a .txt file before continuing. Then simply run the remaining kernals and you will have your word cloud. Enjoy! 
